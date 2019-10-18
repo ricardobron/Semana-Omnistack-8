@@ -3,7 +3,7 @@
 </h1>
 
 <p>
- Muito resumidamente nesta semana desenvolvi o Backend e Frontend de uma aplicação ("RocketBox").
+ Muito resumidamente nesta semana desenvolvi o Backend e Frontend de uma aplicação ("Tindev").
 </p>
 
 ## 👨🏼‍💻 Para mais projetos 
